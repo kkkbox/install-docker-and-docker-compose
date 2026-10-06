@@ -24,5 +24,5 @@ sudo RUN_TEST=0 bash install-docker.sh
 
 Docker,Docker Compose,一键安装脚本,支持最新Debian13正式版
 ```bash
-curl -fSLO https://v4.gh-proxy/https://raw.githubusercontent.com/kkkbox/install-docker-and-docker-compose/main/install-docker.sh && chmod +x install-docker.sh && bash install-docker.sh
+curl -fSLO https://v4.gh-proxy.org/https://raw.githubusercontent.com/kkkbox/install-docker-and-docker-compose/main/install-docker.sh && chmod +x install-docker.sh && bash install-docker.sh
 ```
